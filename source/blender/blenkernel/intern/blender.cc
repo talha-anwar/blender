@@ -526,3 +526,5 @@ void BKE_blender_atexit()
 }
 
 /** \} */
+
+// Test This is a dummy comment just for testing purposes.
